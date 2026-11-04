@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1793770260,
+	"version": 1793803767,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -102,6 +102,8 @@
 		"images/btn_kembali_new-sheet0.png",
 		"images/gemini_generated_image_m34toim34toim34t-sheet0.png",
 		"images/hud_timer-sheet0.png",
+		"images/btn_leaderboard_prev-sheet0.png",
+		"images/btn_leaderboard_next-sheet0.png",
 		"media/drop_001.ogg",
 		"media/drop_002.ogg",
 		"media/drop_003.ogg",

@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1793770260
+#1793803767
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -101,6 +101,8 @@ images/gemini_generated_image_f1w0d1f1w0d1f1w-sheet0.png
 images/btn_kembali_new-sheet0.png
 images/gemini_generated_image_m34toim34toim34t-sheet0.png
 images/hud_timer-sheet0.png
+images/btn_leaderboard_prev-sheet0.png
+images/btn_leaderboard_next-sheet0.png
 media/drop_001.ogg
 media/drop_002.ogg
 media/drop_003.ogg
